@@ -17,7 +17,7 @@ PetMatch é a sua nova ferramenta favorita para encontrar e adotar um pet. Conec
 
 ```bash
 Copiar código
-git clone https://github.com/tamireespaiva/front-petmatch.git
+git clone https://github.com/brunoduraess/front-petmatch.git
 cd PetMatch
 ```
 
